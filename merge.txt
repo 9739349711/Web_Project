@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 this is sanjeeva Patil
-=======
+
 branch says somthing else
->>>>>>> new_branch1
+
